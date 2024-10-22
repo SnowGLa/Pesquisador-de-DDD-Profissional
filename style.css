@@ -1,0 +1,21 @@
+body {
+background-color: #fbf7f5;
+color: #6a6a6a;
+font-family: 'Arima';
+}
+.table-custom th {
+    background-color: #7eb6e0;
+    color: white;
+}
+.table-custom td {
+    background-color: #ffffff;
+    color: #333;
+}
+.btn-custom {
+    background-color: #7eb6e0;
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #6a6a6a;
+    color: #ffffff;
+}
